@@ -9,3 +9,4 @@ E:\000-BACKUP\300-CSharp\001-Good Code\CodeWars\CodeWars2\obj\Debug\CodeWars2.pd
 E:\000-BACKUP\300-CSharp\001-Good Code\CodeWars\CodeWars2\bin\Debug\CodeWars2.exe.config
 E:\000-BACKUP\300-CSharp\001-Good Code\CodeWars\CodeWars2\bin\Debug\CodeWars2.exe
 E:\000-BACKUP\300-CSharp\001-Good Code\CodeWars\CodeWars2\bin\Debug\CodeWars2.pdb
+E:\000-BACKUP\300-CSharp\001-Good Code\CodeWars\CodeWars2\bin\Debug\LibraryDJ.dll
