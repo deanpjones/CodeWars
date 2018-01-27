@@ -1,0 +1,6 @@
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Pythagoras\documents\visual studio 2017\Projects\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
