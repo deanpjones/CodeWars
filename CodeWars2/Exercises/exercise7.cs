@@ -15,7 +15,7 @@ namespace CodeWars2.Exercises
         //    new int[] {1, 2, 1, 1, 3, 1, 0, 0, 0, 0}
         // ------------
         //other solutions 
-        //public static int[] MoveZeroes(int[] arr) => arr.OrderBy(o => o == 0).ToArray();
+        //  public static int[] MoveZeroes(int[] arr) => arr.OrderBy(o => o == 0).ToArray();
         public static int[] MoveZeroes(int[] arr)
         {
             //get all zeros

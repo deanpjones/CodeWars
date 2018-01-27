@@ -21,7 +21,8 @@ namespace CodeWars2
         {
             //test exercises
             //exercise6.testWebsites();   
-            exercise7.TestMoveZeroes();             
+            //exercise7.TestMoveZeroes();
+            exercise8.TestSolution();
 
             Console.Read(); //hold console open
         }
