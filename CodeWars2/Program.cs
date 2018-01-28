@@ -22,7 +22,8 @@ namespace CodeWars2
             //test exercises
             //exercise6.testWebsites();   
             //exercise7.TestMoveZeroes();
-            exercise8.TestSolution();
+            //exercise8.TestSolution();
+            exercise9.TestAreaOfPolygonInsideCircle();
 
             Console.Read(); //hold console open
         }
