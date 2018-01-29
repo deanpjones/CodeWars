@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 //add exercises 
 using CodeWars2.Exercises;
 
-
 namespace CodeWars2
 {
     class Program
@@ -24,6 +23,7 @@ namespace CodeWars2
             //exercise7.TestMoveZeroes();
             //exercise8.TestSolution();
             exercise9.TestAreaOfPolygonInsideCircle();
+            
 
             Console.Read(); //hold console open
         }
